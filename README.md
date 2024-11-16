@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on GenomaWork & Freelance
+- 🔭 I’m currently working on The Good Game & Freelance
 - 🌱 I’m currently learning React Native, Tailwind, NativeWind 
 - 👯 I’m looking to collaborate on interesting projects that drive my professional growth and contribute to collective success.
 - 📫 How to reach me: dborgat@gmail.com - +54-11-54834116
