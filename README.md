@@ -1,37 +1,14 @@
-### Hi there 👋
+### Hi, I'm David 👋
 
-- 🔭 I’m currently working on The Good Game & Freelance
-- 🌱 I’m currently learning React Native, Tailwind, NativeWind 
-- 👯 I’m looking to collaborate on interesting projects that drive my professional growth and contribute to collective success.
-- 📫 How to reach me: dborgat@gmail.com - +54-11-54834116
-- ⚡ Fun fact: I enjoy playing soccer and also playing Catan with friends.
+Senior React Native / Expo engineer with 5+ years building production mobile and web apps in TypeScript for US and EU clients. Currently building agentic AI tooling on the Anthropic Claude API.
 
+- 🔭 Building **Kapit** — an autonomous code-audit agent (Claude API + Cloudflare Workers)
+- ⚙️ Recently architected server-driven iOS Live Activities for real-time AI streaming
+- 📫 dborgat@gmail.com · [LinkedIn](https://www.linkedin.com/in/david-borgat)
 
-[![Linkedin: david-borgat](https://img.shields.io/badge/-davor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-borgat/)](https://www.linkedin.com/in/david-borgat/)
-![GitHub followers](https://img.shields.io/github/followers/dborgat?label=Follow&style=social)
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more...  
-
-  
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: ["React", "React Native", "Next"],
-         css: ["Ant-D", "Tailwind", "Bootstrap", "Material Design", "NativeWind"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["React Native"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working to improve my physical performance and energy levels 😊",
+const stack = {
+  mobile: ["React Native", "Expo", "iOS Live Activities (FCM/APNs)"],
+  web: ["React", "Next.js", "TypeScript", "Electron"],
+  ai: ["Anthropic Claude API", "agentic tool-use loops", "evals"],
+  cloud: ["Cloudflare Workers", "AWS (Cognito, S3, Lambda)", "Node.js"],
 };
-```
-
-
