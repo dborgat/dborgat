@@ -6,9 +6,3 @@ Senior React Native / Expo engineer with 5+ years building production mobile and
 - ⚙️ Recently architected server-driven iOS Live Activities for real-time AI streaming
 - 📫 dborgat@gmail.com · [LinkedIn](https://www.linkedin.com/in/david-borgat)
 
-const stack = {
-  mobile: ["React Native", "Expo", "iOS Live Activities (FCM/APNs)"],
-  web: ["React", "Next.js", "TypeScript", "Electron"],
-  ai: ["Anthropic Claude API", "agentic tool-use loops", "evals"],
-  cloud: ["Cloudflare Workers", "AWS (Cognito, S3, Lambda)", "Node.js"],
-};
